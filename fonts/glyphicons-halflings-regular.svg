@@ -1,0 +1,561 @@
+<!doctype html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Antitoxin Nano</title>
+        <meta name="viewport" id="viewport" content="width=device-width,initial-scale=1, maximum-scale=1, user-scalable=no">
+        <link href='https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Roboto:400,100,300,100italic,300italic,400italic,500,500italic,700,700italic|Roboto+Condensed:400,300italic,400italic,700,700italic,300' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
+        <link rel="stylesheet" type="text/css" href="css/style_index.css" />
+        <link rel="stylesheet" type="text/css" href="css/jquery.fancybox.css" />
+        <script type="text/javascript" src="js/jquery.js"></script>
+        <script type="text/javascript" src="js/jquery.fancybox.js"></script>
+        <script type="text/javascript" src="js/all.js"></script>
+        <script type="text/javascript" src="js/jquery.bxslider.min.js"></script>
+    </head>
+    <body>
+        <div id="wrapper">
+            <header>
+                <div class="header-row">
+                    <h1>АНТИТОКСИН <mark> NANO</mark></h1>
+                    <span class="adv1">Эфективность<br>доказана клинически</span>
+                    <span class="adv2">Более 3500<br> отзывов</span>
+                    <a href="#aim">ЗАКАЗАТЬ ОБРАТНЫЙ ЗВОНОК</a>
+                </div>
+            </header>
+
+
+            <section class="subject">
+                <div class="wrapper_1">
+                    <span class="title_little">
+                        <mark>Полностью избавит</mark>
+                        от паразитов и глистов
+                        <mark>за 21 день!</mark>
+                    </span>
+                    <img src="img/emblem-med.png" alt="">
+                    <h2>
+                        ANTI TOXIN NANO<span>®</span>
+                        <p>НАДЕЖНОЕ СРЕДСТВО <mark>ОТ ПАРАЗИТОВ!</mark></p>
+                    </h2>
+                    <ul>
+                        <li><span>Очищает от паразитов за 1 курс</span></li>
+                        <li><span>Комплексно защищает от паразитов<br>все внутренние органы и кожу</span></li>
+                        <li><span>Устраняет гниение в кишечнике,<br>выводит токсины паразитов<span></li>
+                    </ul>
+                    <div class="price">
+                        <span class="new-price">
+                            990руб.
+                        </span>
+                        <span class="old-price">
+                            1980руб.
+                        </span>
+                    </div>
+                    <div class="button-top">
+                        <div class="button">
+                            <a href="#aim">ЗАКАЗАТЬ</a>
+                        </div>
+                        <div class="caption">
+                            <span>СКИДКА<mark>50</mark></span>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+
+            <section class="danger">
+                <div class="wrapper_2">
+                    <h3><mark>97%</mark> людей даже не подозревают,<br>
+                    ЧТО <mark>В НИХ ЖИВУТ ПАРАЗИТЫ!</mark>
+                    </h3>
+                    <p>ЧЕМ ОНИ ТАК ОПАСНЫ?</p>
+                    <div class="danger-box">
+                        <div class="images">
+                            <img src="img/danger-tab1.png" alt="">
+                            <img src="img/danger-tab2.png" alt="">
+                            <img src="img/danger-tab3.png" alt="">
+                        </div>
+                        <ul>
+                            <li>Провоцируют инфекционные<br>и онко-заболевания</li>
+                            <li>Разрушают ваши мышцы,<br>печень, легкие и головной мозг</li>
+                            <li>Вырастают до 40 см<br>и откладывают 250 яиц за 1 раз</li>
+                        </ul>
+                    </div>
+                </div>
+            </section>
+
+
+            <section class="assurance">
+                <div class="wrapper_3">
+                    <h3>УВЕРЕНЫ, <strong>ЧТО НЕ ЗАРАЖЕНЫ?</strong>
+                    <span>ПРОВЕРЬТЕ СЕБЯ!</span></h3>
+                    <ul>
+                        <li>У Вас часто <strong>болит голова</strong>, <br> страдаете от запоров или <br>поноса</li>
+                        <li><strong>Вы быстро устаете</strong>, <br>чем бы ни занимались</li>
+                        <li><strong>Испытываете нервозность,<br> страдаете от бессонницы и<br> потери аппетита</strong></li>
+                        <li>Вы часто простужаетесь<br> <strong>(ангина, заложенность носа)</strong></li>
+                        <li>Страдаете от аллергии<br> <strong>(высыпания, слезящиеся глаза, насморк)</strong></li>
+                        <li><strong>Ощущаете длительные<br> боли в суставах и мышцах</strong></li>
+                    </ul>
+                </div>
+            </section>
+
+
+            <section class="infection">
+                <div class="wrapper_4">
+                    <h3>ПАРАЗИТЫ ПОПАДАЮТ В ОРГАНИЗМ,
+                      <span>КОГДА ВЫ:</span>
+                    </h3>
+                    <ul>
+                        <li>Передвигаетесь на <br>общественном транспорте</li>
+                        <li>Употребляете в пищу немытые фрукты, <br>овощи или воду</li>
+                        <li>Гладите <br>домашних питомцев</li>
+                        <li>Даете сдачу <br>в магазине</li>
+                    </ul>
+                    <div class="attention">
+                        <span>Если у вас имеется хотя бы один из перечисленных симптомов, <br>
+                        это повод для того, чтобы обратить на антипаразитарную очистку самое пристальное внимание!</span>
+                    </div>
+                </div>
+            </section>
+
+
+            <section class="about-product">
+                <div class="wrapper_5">
+                    <h3>КАК ANTI TOXIN NANO®
+                    <p>БОРЕТСЯ С ПАРАЗИТАМИ?</p></h3>
+                    <div class="about-product">
+                        <div class="about-left">
+                           <div class="tab1">
+                                <h4>ЧЕРТОПОЛОХ</h4>
+                                <span>- расщепляет и мягко<br>выводит яйца паразитов</span>
+                                <span>- оказывает антисептическое,<br>противогрибковое действие</span>
+                           </div>
+                           <div class="tab2">
+                                <h4>ТОПОЛЯНКА<br>(МЕДВЕЖЬИ УШКИ)</h4>
+                                <span>- дубильные вещества<br>активно выгоняют<br>паразитов из организма</span>
+                           </div>
+                        </div>
+                        <div class="about-right">
+                            <div class="tab3">
+                                <h4>ЭКСТРАКТ<br>РОЗМАРИНА</h4>
+                                <span>- смягчает и питает кожу</span>
+                                <span>- мягко отшелушивает<br> ороговевшие клетки кожи</span>
+                           </div>
+                           <div class="tab4">
+                                <h4>ЭКСТРАКТ<br>ЭХИНАЦЕИ</h4>
+                                <span>-восстанавливает иммунитет<br>и защиту внутренних органов</span>
+                                <span>-усиливает выносливость<br>всего организма в целом</span>
+                           </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="form">
+                <div class="wrapper_6">
+                    <div class="left-part">
+                        <h3>АКЦИЯ!
+                          <span>СПЕЦИАЛЬНАЯ СКИДКА!</span>
+                        </h3>
+                        <div class="price">
+                            <span class="new-price">
+                                990руб.
+                            </span>
+                            <span class="old-price">
+                                1980руб.
+                            </span>
+                        </div>
+                        <form method="POST" action="http://www.rocketprofit.ru/crm/api/CreateOrderRaw?flow_id=36441" class="x_order_form order_all10">
+                            <input type="hidden" name="country_code" value="RU">
+                            <p class="label-form">Введите Ваше имя:</p>
+                            <input class="input-form name-form" type="text" name="name" placeholder="Анна">
+                            <p class="label-form">Введите номер телефона:</p>
+                            <input class="input-form phone-form phone_n10" type="text" name="phone" placeholder="+7(919) 982-10-00">
+                            <button class="submit-form sub10" type="submit" href="#aim">ЗАКАЗАТЬ</button>
+                            <input type="hidden" name="timezone" value="-180">
+                            <div class="button-form">
+                                <div class="button"></div>
+                                <div class="caption">
+                                    <span>ОСТАЛОСЬ<mark>7 шт.</mark></span>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </section>
+
+
+            <section class="iconographic">
+                <div class="wrapper_7">
+                    <h3>РЕЗУЛЬТАТЫ КЛИНИЧЕСКИХ ИССЛЕДОВАНИЙ :
+                        <span>Исследование проводилось в условиях стационара на добровольцах с<br>паразитарными заболеваниями</span>
+                    </h3>
+                    <div class="results">
+                        <div class="left">
+                            <div class="textual">
+                                <div class="left-bar">
+                                    <span>Устранение гельминтоза и яиц<br>Нормализация функций и состояния поджелудочной<br>Устранение аллергического дерматита<br>Устранение гастрита, язвы, диареи<br>Устранение анемии</span>
+                                </div>
+                                <div class="right-bar">
+                                    <span>
+                                        100%<br>80%<br>90%<br>90%<br>100%
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="right">
+                            <div class="textual">
+                                <div class="left-bar">
+                                    <span>
+                                        Устранение гельминтоза и яиц<br>Устранение сопутствующих диагнозов
+                                    </span>
+                                </div>
+                                <div class="right-bar">
+                                    <span>
+                                        0%<br>1-2%
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            
+
+            <section class="best">
+                <div class="wrapper_8">
+                    <div class="best-box">
+                        <h3>ЧЕМ ANTI TOXIN NANO<span>®</span> ЛУЧШЕ
+                        <p>ДРУГИХ ПРЕПАРАТОВ:</p>
+                        </h3>
+                        <img src="img/best-product.png" alt="">
+                        <div class="advantages">
+                            <div class="post">
+                                <strong>СЕРТИФИЦИРОВАННОЕ,</strong>
+                                <span>рекомендуемое врачами-паразитологами средство<br> для избавления от паразитов в домашних условиях</span>
+                            </div>
+                            <div class="post">
+                                <strong>НЕ ВЫЗЫВАЕТ ПОБОЧНЫХ ДЕЙСТВИЙ</strong>
+                                <span>в отличие от таблеток, которые вызывают головокружения, <br>тошноту, рвоту, разрушают печень)</span>
+                            </div>
+                            <div class="post">
+                                <strong>ИМЕЕТ ПРИЯТНЫЙ ВКУС</strong>
+                                <span>который понравится даже детям</span>
+                            </div>
+                            <div class="post">
+                                <strong>НАТУРАЛЕН</strong>
+                            <span>состоит исключительно из натуральных лекарственных<br>растений</span>
+                            </div>
+                            <div class="post">
+                                <strong>ПОЛНОСТЬЮ БЕЗОПАСНОЕ СРЕДСТВО</strong>
+                                <span>которое можно пить без назначения врача</span>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </section>
+
+            <section class="form form_9">
+                <div class="wrapper_6">
+                    <div class="left-part">
+                        <h3>АКЦИЯ!
+                          <span>СПЕЦИАЛЬНАЯ СКИДКА!</span>
+                        </h3>
+                        <div class="price">
+                            <span class="new-price">
+                                990руб.
+                            </span>
+                            <span class="old-price">
+                                1980руб.
+                            </span>
+                        </div>
+                        <form method="POST" action="http://www.rocketprofit.ru/crm/api/CreateOrderRaw?flow_id=36441" class="x_order_form order_all10">
+                            <input type="hidden" name="country_code" value="RU">
+                            <p class="label-form">Введите фио:</p>
+                            <input class="input-form name-form" type="text" name="name" placeholder="Анна">
+                            <p class="label-form">Введите номер телефона:</p>
+                            <input class="input-form phone-form phone_n10" type="text" name="phone" placeholder="+7(919) 982-10-00">
+                            <button class="submit-form sub10" type="submit" href="#aim">ЗАКАЗАТЬ</button>
+                            <input type="hidden" name="timezone" value="-180">
+                            <div class="button-form">
+                                <div class="button"></div>
+                                <div class="caption">
+                                    <span>ОСТАЛОСЬ<mark>7 шт.</mark></span>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </section>
+
+
+            <section class="expert">
+                <div class="wrapper_10">
+                    <h3>МНЕНИЕ ЭКСПЕРТА <span>ОБ ANTI TOXIN NANO<span>®</span> :</span></h3>
+                    <div class="expert-think">
+                        <p>Я хочу порекомендовать его всем людям в возрасте после 30 лет. Даже богатырям, пышущим здоровьем. <b>Внутри каждого человека живут паразиты и они постепенно разрушают организм</b>. Поэтому нужно приложить все усилия, чтобы Ваш организм был здоров долгие годы. И пока единственный вариант эффективного лечения за исключением дорогостоящих процедур в стационаре - это капли <b>"ANTI TOXIN NANO"</b>.</p>
+                        <span>
+                            М.И Давыдов<br>
+                            Врач-паразитолог,<br>
+                            высшей категории, К. М. Н.<br>
+                            Стаж работы: 12 лет
+                        </span>
+                    </div>
+                </div>
+            </section>
+
+
+            <section class="better">
+                <div class="wrapper_11">
+                    <span>
+                        ВЫ СТАНЕТЕ ЗДОРОВЫ И ПОЛНЫ ЭНЕРГИИ!
+                    </span>
+                    <h3>
+                        УЖЕ ЧЕРЕЗ 7 ДНЕЙ:
+                    </h3>
+                    <ul class="benefit">
+                        <li>Отличное состояние<br>кожи, волос и ногтей.</li>
+                        <li>Ваше пищеварение<br>и стул пришли в норму.</li>
+                        <li>Крепкий сон и высокая работоспособность.<br>Вы больше успеваете и не устаете!</li>
+                        <li>Паразиты исчезли из вашей<br>жизни навсегда, а вместе<br>с ними и болезни!</li>
+                    </ul>
+                    <div class="comments">
+                        <h3><p>ЧТО ГОВОРЯТ ТЕ,</p>КТО УЖЕ ПОПРОБОВАЛ ANTI TOXIN NANO<span>®</span>?</h3>
+                        <div class="slider">
+                            <div class="framed">
+                                <ul class="bxslider">
+                                    <li class="comment-item">
+                                        <span>Я регулярно прохожу обследования, чтобы держать организм в норме. В последнее время чувствовала себя разбитой, все валилось из рук, пошла сдавать анализы. Результат меня ошарашил - глисты! У меня и глисты, понятия не имею откуда. Врач посоветовал не паниковать и пропить курс <mark>Анти Токсина Нано</mark>. Через месяц сдала повторные анализы - <mark>глисты ушли</mark>. Теперь иногда <mark>пью Анти Токсин для профилактики!</mark></span>
+                                        <div class="author">
+                                            <div class="current-author">
+                                                <img src="img/author1.png" alt="">
+                                                <span>ЕЛЕНА АНИСИМОВА<br>35 лет, Краснодар</span>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="comment-item">
+                                        <span>У моего внука часто болел животик и он выглядел как-то болезненно. Родители оббегали кучу врачей, но те лишь руками разводили и говорили, что ребенок здоров. Недавно ко мне на чай заглянула моя коллега с работы и рассказала, что ее внучку помог <mark>Анти Токсин Нано</mark> и что все эти недомогания от паразитов. Спустя 2 недели нашего Ванечку было не узнать! Семья Егоровых говорит вам спасибо за такой замечательный препарат!</span>
+                                        <div class="author">
+                                            <div class="current-author">
+                                                <img src="img/author2.png" alt="">
+                                                <span>МАРИЯ ЕГОРОВА<br>48 лет, Волгоград</span>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li class="comment-item">
+                                        <span>Я много времени раньше проводила в тренажерном зале, мне нравилось заниматься. Потом вдруг появились сильные и длительные боли в мышцах, я решила, что это от тренировок и перестала ходить в зал. Но прошла неделя, месяц, а боли не проходила. Побежала к врачу, обследование ничего не показало. Мама сказала, чтобы я для профилактики <mark>Анти Токсин Нано</mark>попила, т.к.это может быть из-за паразитов. Начала пить и <mark>через 3 дня уже ничего не болело</mark>, но курс я решила полностью пропить.</span>
+                                        <div class="author">
+                                            <div class="current-author">
+                                                <img src="img/author3.png" alt="">
+                                                <span>Анастасия Маринина<br>27 лет, Москва</span>
+                                            </div>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="form form_12">
+                <div class="wrapper_6">
+                    <div class="left-part">
+                        <h3>АКЦИЯ!
+                          <span>СПЕЦИАЛЬНАЯ СКИДКА!</span>
+                        </h3>
+                        <div class="price">
+                            <span class="new-price">
+                                990руб.
+                            </span>
+                            <span class="old-price">
+                                1980руб.
+                            </span>
+                        </div>
+                        <form method="POST" action="http://www.rocketprofit.ru/crm/api/CreateOrderRaw?flow_id=36441" class="x_order_form order_all10">
+                            <input type="hidden" name="country_code" value="RU">
+                            <p class="label-form">Введите фио:</p>
+                            <input class="input-form name-form" type="text" name="name" placeholder="Анна">
+                            <p class="label-form">Введите номер телефона:</p>
+                            <input class="input-form phone-form phone_n10" type="text" name="phone" placeholder="+7(919) 982-10-00">
+                            <button class="submit-form sub10" type="submit" href="#aim">ЗАКАЗАТЬ</button>
+                            <input type="hidden" name="timezone" value="-180">
+                            <div class="button-form">
+                                <div class="button"></div>
+                                <div class="caption">
+                                    <span>ОСТАЛОСЬ<mark>7 шт.</mark></span>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </section>
+
+
+            <section class="how-to-use">
+                <div class="wrapper_12">
+                    <h3><p>Способ применения </p> Anti Toxin Nano<span>®</span> :</h3>
+                    <ul>
+                        <li>
+                            <div class="frame">
+                                <span>ДЛЯ ВЗРОСЛЫХ:</span>
+                                <strong>Применять 2 раза<br>в день за 30 мин до еды.</strong>
+                                <p>Курс приема 30 дней.</p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="frame">
+                                <span>ДЛЯ ДЕТЕЙ 6 - 12 ЛЕТ:</span>
+                                <strong>Применять 2 раза<br>в день за 30 мин до еды.</strong>
+                                <p>Курс приема 20 дней.</p>
+                            </div>
+                        </li>
+                        </li>
+                        <li>
+                            <div class="frame">
+                                <span>ДЛЯ ДЕТЕЙ 3 - 6 ЛЕТ:</span>
+                                <strong>Применять 3 раза<br>в день за 30 мин до еды.</strong>
+                                <p>Курс приема 10 дней.</p>
+                            </div>
+                        </li>
+                        </li>
+                    </ul>
+                </div>
+            </section>
+
+
+            <section class="sertificate">
+                <div class="wrapper_13">
+                    <h3>ЧТО ВЫ ПОЛУЧИТЕ, СДЕЛАВ ЗАКАЗ У НАС?</h3>
+                    <ul>
+                        <li><span>Продукт, безопасный<br> для здоровья</span></li>
+                        <li><span>Цены без накруток</span></li>
+                        <li><span>Гарантия<br> индивидуального сопровождения<br> (24 часа)</span></li>
+                        <li><span>Доставка по всей<br>России и странам СНГ</span></li>
+                        <li><span>Сертификат<br>подлинности</span></li>
+                    </ul>
+                </div>
+            </section>
+
+
+            <section class="fake">
+                <div class="wrapper_14">
+                    <h3>ОСТЕРЕГАЙТЕСЬ ПОДДЕЛОК!</h3>
+                    <p>С ростом популярности <mark>ANTI TOXIN NANO</mark> на рынке, участились случаи подделок по бросовой цене. В настоящей упаковке обязательно должна быть инструкция на детокс-средство <mark>ANTI TOXIN NANO</mark> на бумаге хорошего качества и сертификат соответствия</p>
+                    <span>Ппродукт продается в оригинальной упаковке<br>
+                        <mark>С УНИКАЛЬНЫМ РЕГИСТРАЦИОННЫМ КОДОМ!</mark><br>
+                        Найдите код на упаковке и проверьте его подлинность.
+                    </span>
+                    <div class="check">
+                        <input class="code-val" type="text" placeholder="289 990 8766">
+                        <a href="#" class="check_code">ПРОВЕРИТЬ КОД</a>
+                    </div>
+                </div>
+            </section>
+
+            <section class="how-it-works">
+                <div class="wrapper_16">
+                    <h3>Как мы работаем?</h3>
+                    <ul>
+                        <li><span>Вы оставляете<br>заявку на сайте</span></li>
+                        <li><span>Мы связываемся<br>с Вами</span></li>
+                        <li><span>Отправляем Вашу<br>посылку</span></li>
+                        <li><span>Вы оплачиваете<br>при получении</span></li>
+                    </ul>
+                </div>
+            </section>
+
+             <section class="form-bottom">
+                <div class="wrapper_6">
+                    <h3>ANTI TOXIN NANO<span>®</span>
+                        <p>- НАДЕЖНОЕ СРЕДСТВО ОТ ПАРАЗИТОВ!</p>
+                    </h3>
+                    <div class="left-part">
+                        <form method="POST" action="http://www.rocketprofit.ru/crm/api/CreateOrderRaw?flow_id=36441" class="x_order_form order_all10">
+                           <input type="hidden" name="country_code" value="RU">
+                           <p class="label-form">Введите фио:</p>
+                           <input class="input-form name-form" type="text" name="name" placeholder="Анна">
+                           <p class="label-form">Введите номер телефона:</p>
+                           <input class="input-form phone-form phone_n10" type="text" name="phone" placeholder="+7(919) 982-10-00">
+                           <div class="price">
+                                <span class="new-price">
+                                    990руб.
+                                </span>
+                                <span class="old-price">
+                                    1980руб.
+                                </span>
+                            </div>
+                           <button class="submit-form sub10" type="submit" href="#aim">ЗАКАЗАТЬ</button>
+                           <input type="hidden" name="timezone" value="-180">
+                           <div class="button-form">
+                               <div class="button"></div>
+                               <div class="caption">
+                                   <span>ОСТАЛОСЬ<mark>7 шт.</mark></span>
+                               </div>
+                           </div>
+                       </form>
+                        <div class="button-form">
+                            <div class="button" id="aim">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <footer>
+                <div style="text-align: center"> ООО «Геометрия Розы», Москва, Варшавское шоссе, д.42, ОГРН 1125262014844, ИНН/КПП 5262283764/772601001</div>
+                <a href="#conf-box" class="fancybox"> Политика конфиденциальности</a>
+            </footer>
+
+        </div>
+            <div id="conf-box">
+                <div class="textual">
+                    <strong>Защита личных данных</strong>
+                    <p>Для защиты ваших личных данных у нас внедрен ряд средств защиты, которые действуют при введении,<br> передаче или работе с вашими личными данными.</p>
+                    <strong>Разглашение личных сведений и передача этих сведений третьим лицам</strong>
+                    <p>Ваши личные сведения могут быть разглашены нами только в том случае это необходимо для: (а) обеспечения соответствия предписаниям закона или требованиям судебного процесса в нашем отношении ; (б) защиты наших прав или собственности (в) принятия срочных мер по обеспечению личной безопасности наших сотрудников или потребителей предоставляемых им услуг, а также обеспечению общественной безопасности. Личные сведения, полученные в наше распоряжение при регистрации, могут передаваться третьим организациям и лицам, состоящим с нами в партнерских отношениях для улучшения качества оказываемых услуг. Эти сведения не будут использоваться в каких-либо иных целях, кроме перечисленных выше. Адрес электронной почты, предоставленный вами при регистрации может использоваться для отправки вам сообщений или уведомлений об изменениях, связанных с вашей заявкой, а также рассылки сообщений о происходящих в компании событиях и изменениях, важной информации о новых товарах и услугах и т.д. Предусмотрена возможность отказа от подписки на эти почтовые сообщения.</p>
+                    <strong>Использование файлов «cookie»</strong>
+                    <p>Когда пользователь посещает веб-узел, на его компьютер записывается файл «cookie» (если пользователь разрешает прием таких файлов). Если же пользователь уже посещал данный веб-узел, файл «cookie» считывается с компьютера. Одно из направлений использования файлов «cookie» связано с тем, что с их помощью облегчается сбор статистики посещения. Эти сведения помогают определять, какая информация, отправляемая заказчикам, может представлять для них наибольший интерес. Сбор этих данных осуществляется в обобщенном виде и никогда не соотносится с личными сведениями пользователей.<br>
+                        Третьи стороны, включая компании Google, показывают объявления нашей компании на страницах сайтов в Интернете. Третьи стороны, включая компанию Google, используют cookie, чтобы показывать объявления, основанные на предыдущих посещениях пользователем наших вебсайтов и интересах в веб-браузерах. Пользователи могут запретить компаниям Google использовать cookie. Для этого необходимо посетить специальную страницу компании Google по этому адресу: http://www.google.com/privacy/ads/
+                    </p>
+                    <strong>Изменения в заявлении о соблюдении конфиденциальности</strong>
+                    <p>Заявление о соблюдении конфиденциальности предполагается периодически обновлять. При этом будет изменяться дата предыдущего обновления, указанная в начале документа.<br>Сообщения об изменениях в данном заявлении будут размещаться на видном месте наших веб-узлов<br>
+                        Благодарим Вас за проявленный интерес к нашей системе!
+                    </p>
+                </div>
+            </div>
+        <script type='text/javascript' src='http://www.rocketprofit.ru/getlandingscript.php?site_id=29018&hit_id=120987548'></script>
+
+        
+
+        <!-- RocketProfit counter -->
+<script type='text/javascript' src='http://www.rocketprofit.ru/static/js/counter.js'></script>
+<script type='text/javascript'>
+	var rp_counter = new RocketProfitCounter({"server":"http:\/\/www.rocketprofit.ru\/counter.php","shard_id":"77","user_id":"3855","site_id":"29018","flow_id":"36441","offer_id":"604","site_template_id":"697","pre_site_template_id":"99999604","source":"DS","price_quote_type":"2","is_pre_site":0});
+	rp_counter._trackPageView();
+</script>
+<!-- /RocketProfit counter --><!-- RocketProfit form handler -->
+<script type="text/javascript" src="http://www.rocketprofit.ru/static/js/form_handler.js"></script>
+<script>
+	new RocketProfitFormHandler({"api_url":"http:\/\/www.rocketprofit.ru\/crm\/api\/createOrderRichData","thank_you_page_url":"http:\/\/www.rocketprofit.ru\/thank_you\/","flow_id":"36441","template_id":"697","metrika_hits":null,"advertiser_api_url":"http:\/\/www.rocketprofit.ru\/advertiser\/api\/countryList"});
+</script>
+<!-- /RocketProfit form handler -->
+
+        <script type="text/javascript">
+
+            if($('select').length) {
+
+            }
+
+            else{
+
+                $('.c-s').css({'display':'none'})
+
+            }
+
+
+        </script>
+    </body>
+</html>

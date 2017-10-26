@@ -1,0 +1,889 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <title>АНТИТОКСИН NANO® - очищение и защита от паразитов!
+    </title>
+    <link href='css/normalize.css' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link href='css/style.css' rel='stylesheet' type='text/css'>
+</head>
+
+<body>
+    <div class="container">
+        <div class="top-head">
+            <div class="wrapper">
+                <div class="left">АНТИТОКСИН NANO®</div>
+                <div class="item1">
+                    <img src="img/icon1.png" alt="">Клинически доказанная
+                    <br>эффективность
+                </div>
+                <div class="item2">
+                    <img src="img/icon2.png" alt="">Более 3500
+                    <br>отзывов
+                </div>
+                <div class="button">
+                    <button onclick="$('#callModal').arcticmodal();">Заказать обратный звонок</button>
+                </div>
+            </div>
+        </div>
+        <div class="block1 top">
+            <div class="wrapper">
+                <div class="title">АНТИТОКСИН NANO® -
+                    <br>очищение и защита от паразитов!</div>
+                <div class="title2"><u>Навсегда</u> избавьтесь от паразитов, глистов <u>за 1 месяц</u></div>
+                <div class="block-left">
+                    <div class="item">
+                        <span class="green">Безопасно выводит паразитов</span>
+                        <br> из печени, желудка, сердца,
+                        <br>легких и крови
+                    </div>
+                    <div class="item">
+                        <span class="green">Убивает паразитов,</span> действуя
+                        <br> на нервную систему паразита,
+                        <br> разрушает клетки гельминта
+                    </div>
+                    <div class="item">
+                        <span class="green">Избавляет от гниения</span> в
+                        <br>кишечнике, обезвреживает
+                        <br> яйца паразитов
+                    </div>
+                </div>
+                <div class="product-block">
+                    <img src="img/product.png" alt="">
+                </div>
+                <div class="bottom-line">
+                    осталось товаров <span class="red">5</span> штук
+                </div>
+                <div class="block-right">
+                    <div class="old">старая цена 1980 руб.</div>
+                    <div class="new">новая цена 990 руб.</div>
+                    <div class="form-block">
+                        <div class="line-top">Заполните поля:</div>
+                        <form action="http://www.rocketprofit.ru/crm/api/CreateOrderRaw?flow_id=36441">
+                            <div class="line c-s">
+                                <input type="hidden" name="country_code" value="RU">
+                            </div>
+                            <div class="line">
+                                <input type="text" name="name" placeholder="Имя">
+                            </div>
+                            <div class="line">
+                                <input type="text" name="phone" placeholder="Телефон">
+                            </div>
+                            <div class="button-block">
+                                <button type="submit"></button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="block2">
+            <div class="wrapper">
+                <div class="title1">В России каждый 3-й человек заражен
+                    <br>25 видами паразитов
+                </div>
+                <div class="title2">Осторожно! Паразиты!</div>
+                <div class="block-img">
+                    <div class="item"><img src="img/block2-img1.jpg" alt=""></div>
+                    <div class="item item2"><img src="img/block2-img2.jpg" alt=""></div>
+                    <div class="item"><img src="img/block2-img3.jpg" alt=""></div>
+                </div>
+                <div class="block-text">
+                    <div class="item item1">
+                        <div class="im-b"><img src="img/icon3.png" alt=""></div>
+                        Источники острых инфекций и онкологических заболеваний
+                    </div>
+                    <div class="item item2">
+                        <div class="im-b"><img src="img/icon3.png" alt=""></div>Отравляют
+                        <br>
+                        <b>ВЕСЬ ОРГАНИЗМ</b>, особенно клетки крови, иммунную систему и печень
+                    </div>
+                    <div class="item item3">
+                        <div class="im-b"><img src="img/icon3.png" alt=""></div>За 7 дней вырастают до 40 см и откладывают 280 яиц</div>
+                </div>
+            </div>
+        </div>
+        <div class="block3">
+            <div class="wrapper">
+                <div class="title">12 признаков
+                    <br>наличия паразитов
+                </div>
+                <div class="title2">Проверьте себя сейчас!</div>
+                <div class="left-block">
+                    <div class="line line1">
+                        <img src="img/block3-icon.png" alt=""> 1. Запор
+                    </div>
+                    <div class="line line2">
+                        <img src="img/block3-icon.png" alt=""> 2. Понос
+                    </div>
+                    <div class="line line3">
+                        <img src="img/block3-icon.png" alt=""> 3. Газы и вздутие
+                    </div>
+                    <div class="line line4">
+                        <img src="img/block3-icon.png" alt=""> 4. Аллергия
+                    </div>
+                    <div class="line line5">
+                        <div class="img-b"><img src="img/block3-icon.png" alt=""></div> 5. Боли в
+                        <br> суставах
+                        <br> и мышцах
+                    </div>
+                    <div class="line line6">
+                        <div class="img-b"><img src="img/block3-icon.png" alt=""></div> 6. Проблемная
+                        <br> кожа
+                    </div>
+                </div>
+                <div class="right-block">
+                    <div class="line line7">
+                        <img src="img/block3-icon.png" alt=""> 7. Проблемы с весом
+                    </div>
+                    <div class="line line8">
+                        <img src="img/block3-icon.png" alt=""> 8. Нервозность
+                    </div>
+                    <div class="line line9">
+                        <img src="img/block3-icon.png" alt=""> 9. Нарушения сна
+                    </div>
+                    <div class="line line10">
+                        <div class="img-b"><img src="img/block3-icon.png" alt=""></div> 10. Синдром
+                        <br>усталости
+                    </div>
+                    <div class="line line11">
+                        <div class="img-b"><img src="img/block3-icon.png" alt=""></div>
+                        11. Иммунные
+                        <br>нарушения
+                    </div>
+                    <div class="line line12">
+                        <div class="img-b"><img src="img/block3-icon.png" alt=""></div> 12. Воспаление
+                        <br>дыхательных путей
+                    </div>
+                </div>
+                <div class="text-bottom">
+                    Если хотя бы 2 симптома вы ощущали в течение
+                    <br>месяца, НЕМЕДЛЕННО НАЧНИТЕ ЛЕЧЕНИЕ!
+                </div>
+            </div>
+        </div>
+        <div class="block4">
+            <div class="wrapper">
+                <div class="title">Где вы <span class="red">100%</span> встретите паразитов</div>
+                <div class="block-top">
+                    <div class="item item1">Общественные
+                        <br>места</div>
+                    <div class="item item2">Мясо, рыба,
+                        <br>овощи, фрукты</div>
+                    <div class="item item3">Комары, клещи,
+                        <br>кошки, собаки</div>
+                    <div class="item item4">Некачественная
+                        <br>вода</div>
+                </div>
+                <div class="title2">Как АНТИТОКСИН NANO®
+                    <br>
+                    <span class="green">очищает и защищает</span> организм?
+                </div>
+                <div class="block-img">
+                    <div class="left">
+                        <div class="name name1">Сок плодов Сумаха</div>
+                        <div class="text text1">Парализует нервную
+                            <br> систему глистов и паразитов,
+                            <br> избавляет от гниения в
+                            <br> органах.</div>
+                        <div class="name name2">Ферула Джунгарская</div>
+                        <div class="text text2">Уничтожает
+                            <br> болезнетворные
+                            <br> вирусы, грибки и
+                            <br> бактерии.</div>
+                    </div>
+                    <div class="right">
+                        <div class="name name3">Медвежья желчь</div>
+                        <div class="text text3">Растворяет и мягко
+                            <br> выводит более 300
+                            <br> видов паразитов, а
+                            <br> также продукты
+                            <br> распада и яйца
+                            <br> глистов.</div>
+                        <div class="name name4">Вытяжка из
+                            <br>20 целебных растений</div>
+                        <div class="text text4">Защищает органы,
+                            <br> иммунитет, чистит кожу.
+                            <br> Улучшает сон и память.
+                            <br> Снимает усталость.</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="block5 stock">
+            <div class="wrapper">
+                <div class="block-left">
+                    <div class="title">Специальная цена!!!</div>
+                    <div class="old">старая цена 1980 руб.</div>
+                    <div class="new">новая цена 990 руб.</div>
+                    <div class="timer-title">до конца акции осталось:</div>
+                    <div class="timer-block">
+                        <div class="item hours">00</div>
+                        <div class="item mins">24</div>
+                        <div class="item secs">59</div>
+                    </div>
+                    <div class="timer-text">
+                        <div class="item h">часов</div>
+                        <div class="item m">минут</div>
+                        <div class="item s">секунд</div>
+                    </div>
+                </div>
+                <div class="product-block">
+                    <img src="img/product2.png" alt="">
+                </div>
+                <div class="bottom-block">
+                    осталось товаров
+                    <br><span class="dark">5</span> штук
+                </div>
+                <div class="block-right">
+                    <div class="form-block">
+                        <div class="line-top">Заполните поля:</div>
+                        <form action="http://www.rocketprofit.ru/crm/api/CreateOrderRaw?flow_id=36441">
+                            <div class="line c-s">
+                                <input type="hidden" name="country_code" value="RU">
+                            </div>
+                            <div class="line">
+                                <input type="text" name="name" placeholder="Имя">
+                            </div>
+                            <div class="line">
+                                <input type="text" name="phone" placeholder="Телефон">
+                            </div>
+                            <div class="button-block">
+                                <button type="submit"></button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="block6">
+            <div class="wrapper">
+                <div class="title">Результаты клинических
+                    <br>исследований</div>
+                <div class="line2">Группа добровольцев из 146 человек с паразитарными отравлениями была
+                    <br>разделена на 2 подгруппы. Никто из участников не знал, какой препарат
+                    <br>принимает: плацебо или Антитоксин Нано.</div>
+                <div class="left">
+                    <div class="name">Результаты 1 группы
+                        <br>(Антитоксин Нано)</div>
+                    <div class="img-b"><img src="img/block6-img1.jpg" alt=""></div>
+                    <div class="line">
+                        <div class="i-b"><img src="img/icon4.png" alt=""></div>
+                        <div class="t-b">устранение паразитов и яиц </div>
+                        <div class="p-b">100%</div>
+                    </div>
+                    <div class="line">
+                        <div class="i-b"><img src="img/icon4.png" alt=""></div>
+                        <div class="t-b">нормализация функций печени,
+                            <br>почек, легких, ЖКТ </div>
+                        <div class="p-b">87%</div>
+                    </div>
+                    <div class="line">
+                        <div class="i-b"><img src="img/icon4.png" alt=""></div>
+                        <div class="t-b">устранение аллергических
+                            <br>реакций, включая дерматит</div>
+                        <div class="p-b">90%</div>
+                    </div>
+                    <div class="line">
+                        <div class="i-b"><img src="img/icon4.png" alt=""></div>
+                        <div class="t-b">устранение диареи, запоров,
+                            <br>дисбактериоза </div>
+                        <div class="p-b">98%</div>
+                    </div>
+                    <div class="line">
+                        <div class="i-b"><img src="img/icon4.png" alt=""></div>
+                        <div class="t-b">устранение бессонницы,
+                            <br>бруксизма </div>
+                        <div class="p-b">98,5%</div>
+                    </div>
+                </div>
+                <div class="right">
+                    <div class="name">Результаты 2 группы
+                        <br>(плацебо)</div>
+                    <div class="img-b"><img src="img/block6-img2.jpg" alt=""></div>
+                    <div class="border"></div>
+                    <div class="line">
+                        <div class="p-b">1%</div>
+                        <div class="t-b">устранение паразитов и яиц </div>
+                    </div>
+                    <div class="line">
+                        <div class="p-b">1,7%</div>
+                        <div class="t-b">нормализация функций печени,
+                            <br>почек, легких, ЖКТ </div>
+                    </div>
+                    <div class="line">
+                        <div class="p-b">0%</div>
+                        <div class="t-b">устранение аллергических
+                            <br>реакций, включая дерматит</div>
+                    </div>
+                    <div class="line">
+                        <div class="p-b">3%</div>
+                        <div class="t-b">устранение диареи, запоров,
+                            <br>дисбактериоза </div>
+                    </div>
+                    <div class="line">
+                        <div class="p-b">1,7%</div>
+                        <div class="t-b">устранение бессонницы,
+                            <br>бруксизма </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="block7">
+            <div class="wrapper">
+                <div class="title">Почему <span class="green">АНТИТОКСИН NANO®<br>лучше</span> антибиотиков?
+                </div>
+                <div class="product-block">
+                    <img src="img/product3.png" alt="">
+                </div>
+                <div class="item1 item">
+                    <div><img src="img/block7-img1.png" alt=""></div>
+                    <div><img src="img/icon5.png" alt=""></div>
+                    <b>В короткий срок</b> губит нервную систему паразитов, мягко выводит из организма мелких и крупных паразитов и их яйца навсегда
+                </div>
+                <div class="item2 item">
+                    <div><img src="img/block7-img2.png" alt=""></div>
+                    <div><img src="img/icon5.png" alt=""></div>
+                    <b>Имеет ряд врачебных рекомендаций</b> и сертификатов для безопасного очищения и защиты организма в домашних условиях
+                </div>
+                <div class="item3 item">
+                    <div><img src="img/block7-img3.png" alt=""></div>
+                    <div><img src="img/icon5.png" alt=""></div>
+                    <b>В отличие от аптечных препаратов</b> не вызывает тошноты, рвоты, не “бьет по печени”, а восстанавливает органы и надежно защищает иммунитет
+                </div>
+                <div class="item4 item">
+                    <div><img src="img/block7-img4.png" alt=""></div>
+                    <div><img src="img/icon5.png" alt=""></div>
+                    <b>Полностью натуральный состав</b> из экологически чистых растений без примесей
+                </div>
+            </div>
+        </div>
+        <div class="block8 stock">
+            <div class="wrapper">
+                <div class="block-left">
+                    <div class="title">Специальная цена!!!</div>
+                    <div class="old">старая цена 1980 руб.</div>
+                    <div class="new">новая цена 990 руб.</div>
+                    <div class="timer-title">до конца акции осталось:</div>
+                    <div class="timer-block">
+                        <div class="item hours">00</div>
+                        <div class="item mins">24</div>
+                        <div class="item secs">59</div>
+                    </div>
+                    <div class="timer-text">
+                        <div class="item h">часов</div>
+                        <div class="item m">минут</div>
+                        <div class="item s">секунд</div>
+                    </div>
+                </div>
+                <div class="product-block">
+                    <img src="img/product2.png" alt="">
+                </div>
+                <div class="bottom-block">
+                    осталось товаров
+                    <br><span class="dark">5</span> штук
+                </div>
+                <div class="block-right">
+                    <div class="form-block">
+                        <div class="line-top">Заполните поля:</div>
+                        <form action="http://www.rocketprofit.ru/crm/api/CreateOrderRaw?flow_id=36441">
+                            <div class="line c-s">
+                                <input type="hidden" name="country_code" value="RU">
+                            </div>
+                            <div class="line">
+                                <input type="text" name="name" placeholder="Имя">
+                            </div>
+                            <div class="line">
+                                <input type="text" name="phone" placeholder="Телефон">
+                            </div>
+                            <div class="button-block">
+                                <button type="submit"></button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="block9">
+            <div class="wrapper">
+                <div class="title">Экспертное мнение
+                    <br> об АНТИТОКСИН NANO® </div>
+                <div class="block-doctor">
+                    <div class="img-b">
+                        <img src="img/doctor.png" alt="">
+                    </div>
+                    <div class="text">
+                        Не всегда легко заметить, как вы и ваши дети заражаются через грязные руки, песок, почву и воду и еду. Единственный способ выгнать паразитов, не причинив вред здоровью - Антитоксин Нано. Уничтожает гельминтов, бактерии и грибки. Повышает антипаразитарный иммунитет. Вы удивитесь своему самочувствию после курса лечения, боль уйдет, слабость сменится бодростью. Устройте организму генеральную уборку и почувствуйте разницу.
+                        <div class="bottom-block">
+                            <div class="left">
+                                <b>А.Г. Леонидов</b>
+                                <br> Профессор, врач-токсиколог высшей категории
+                                <br> Стаж работы: 19 лет
+                            </div>
+                            <div>
+                                <img src="img/sign.png" alt="">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="block10">
+            <div class="wrapper">
+                <div class="title">АНТИТОКСИН NANO®
+                    <br>вернет здоровье и молодость!</div>
+                <div class="blocks">
+                    <div class="item">
+                        <div class="img-b">
+                            <img src="img/block8-img1.jpg" alt="">
+                            <div class="text">Прекрасная кожа, без угрей и
+                                <br> сухих морщин. Блестящие
+                                <br> волосы, крепкие ногти. Вы
+                                <br> приводите свой вес в норму.
+                                <br> Никакой дистрофии или
+                                <br>ожирения!</div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="img-b">
+                            <img src="img/block8-img2.jpg" alt="">
+                            <div class="text">Ваш организм работает как
+                                <br> часы. Порядок со стулом. Вы
+                                <br> хорошо спите и просыпаетесь
+                                <br> бодрым. Вы все успеваете и не
+                                <br> устаете!</div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="img-b">
+                            <img src="img/block8-img3.jpg" alt="">
+                            <div class="text">Паразиты больше не сосут ваши
+                                <br> жизненные соки. Они исчезли
+                                <br> навсегда, а вместе с ними и
+                                <br> болезни! Вы - здоровы. Теперь
+                                <br> можно поделиться рецептом
+                                <br> счастья с близкими!</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="block11">
+            <div class="wrapper">
+                <div class="title">Что пишут об АНТИТОКСИН NANO®
+                    <br>в Интернете</div>
+                <div class="ok-block">
+                    <div class="title-line"><img src="img/ok-icon.png" alt="">Отзывы об “Антитоксин Нано” в Одноклассниках</div>
+                    <div class="item">
+                        <div class="img-left">
+                            <img src="img/ava1.jpg" alt="">
+                        </div>
+                        <div class="text">
+                            <div class="name">Лариса Исакова, г. Ставрополь</div>
+                            4 года назад мне поставили диагноз - Болезнь Рейно. Жизнь была кончена, но судьба сделала мне подарок. Пропив «Антитоксин Нано» я забыла об аллергических отеках "Квинке", я вернула себе молодость.<img src="img/smile1.png" alt="" class="smile1">
+                        </div>
+                    </div>
+                    <div class="item bg">
+                        <div class="img-left">
+                            <img src="img/ava2.jpg" alt="">
+                        </div>
+                        <div class="text">
+                            <div class="name">Мария Долина, г. Астрахань</div>
+                            Страдала от зудящих красных пятен. Лечилась всем, даже у китайского лекаря прижиганиями. Не помогло. Сейчас заканчиваю принимать «Антитоксин Нано»: прошел зуд, высыпания, ощущение тяжести в подреберье.
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="img-left">
+                            <img src="img/ava3.jpg" alt="">
+                        </div>
+                        <div class="text">
+                            <div class="name">Виктория Попова, г. Киров</div>
+                            С детства беспокоил хронический лямблиозный холецистит. Сделав анализ на наличие паразитов, я пришла в ужас от того сколько их может быть, и тут же заказала «Антитоксин Нано». Результат отличный! Анализы оказались чистыми!
+                            <img src="img/smile2.png" alt="" class="smile1">
+                        </div>
+                    </div>
+                </div>
+                <div class="vk-block">
+                    <div class="title-line"><img src="img/vk-icon.jpg" alt="">Отзывы об “Антитоксин Нано” в Вконтакте</div>
+                    <div class="item">
+                        <div class="img-left">
+                            <img src="img/ava4.jpg" alt="">
+                        </div>
+                        <div class="text">
+                            <div class="name">Ирина Трунева</div>
+                            Я сама врач и причины усталости, лишнего веса и плохой кожи связывала с ЖКТ, с паразитами. Мама дала попробовать Антитоксин. Чудо! За месяц ушло 6 кг, кожа чистая, полна энергии!
+                        </div>
+                    </div>
+                    <div class="item bg">
+                        <div class="img-left">
+                            <img src="img/ava5.jpg" alt="">
+                        </div>
+                        <div class="text">
+                            <div class="name">Вика Гаева</div>
+                            Стыдно, но я постоянно мучилась то запорами, то поносом. Это ужасно, когда не можешь по несколько дней в туалет сходить. Чуть геморрой себе не нажила, так тужилась. Хорошо, что узнала про Антитоксин. Уже через неделю стул стал полностью нормальным. Такое облегчение!
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="img-left">
+                            <img src="img/ava6.jpg" alt="">
+                        </div>
+                        <div class="text">
+                            <div class="name">Дарья Романова</div>
+                            Сын во сне скрипел зубами. Так громко, что я боялась, он себе зубы сточит. Как узнала, что это симптом паразитов, сразу заказала Антитоксин. Много рекомендаций от мам из дет.сада. Через 5 дней перестал скрипеть зубами.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="block12">
+            <div class="wrapper">
+                <div class="title">Как применять АНТИТОКСИН NANO®</div>
+                <div class="block-left">
+                    <div class="img-block">
+                        <img src="img/icon6.png" alt="">
+                    </div>
+                    <div class="text"><b>Взрослым</b> 2 раза в день.
+                        <br>Курс приема 30 дней.</div>
+                </div>
+                <div class="block-right">
+                    <div class="img-block">
+                        <img src="img/icon7.png" alt="">
+                    </div>
+                    <div class="text">
+                        <b>Детям</b> 2 раза в день.
+                        <br>Курс приема 20 дней.
+                    </div>
+                </div>
+                <div class="title2">Почему <span class="green">тысячи людей заказывают у нас?</span></div>
+                <div class="block-circle">
+                    <div class="item">
+                        <img src="img/block12-img1.jpg" alt="">
+                        <div class="text-block">Самая
+                            <br>выгодная цена</div>
+                    </div>
+                    <div class="item">
+                        <img src="img/block12-img2.jpg" alt="">
+                        <div class="text-block">Продукт
+                            <br> высокого
+                            <br>качества </div>
+                    </div>
+                    <div class="item">
+                        <img src="img/block12-img3.jpg" alt="">
+                        <div class="text-block">Поддержка и
+                            <br>консультации 24/7 </div>
+                    </div>
+                    <div class="item">
+                        <img src="img/block12-img4.jpg" alt="">
+                        <div class="text-block">Работаем по всей
+                            <br>России и СНГ</div>
+                    </div>
+                </div>
+                <div class="block-sert">
+                    <div class="item item1">
+                        <img src="img/sert1.jpg" alt="">
+                    </div>
+                    <div class="item">
+                        <img src="img/sert2.jpg" alt="">
+                    </div>
+                    <div class="item">
+                        <img src="img/sert3.jpg" alt="">
+                    </div>
+                    <div class="item">
+                        <img src="img/sert4.jpg" alt="">
+                    </div>
+                </div>
+                <div class="block-bottom">
+                    <div class="product-block">
+                        <img src="img/product2.png" alt="">
+                    </div>
+                    <div class="top-title">Остерегайтесь подделок!</div>
+                    <div class="text">АНТИТОКСИН NANO очень популярный продукт. В Интернете участились случаи продажи дешевых подделок. Настоящая упаковка обязательно имеет регистрационный код, подтверждающий наличие сертификата соответствия.
+                        <br>
+                        <br> Найдите на упаковке уникальный код.
+                        <br> Введите номер и убедитесь в подлинности покупки.
+                    </div>
+                    <div class="bottom-line">
+                        <div class="result-line"></div>
+                        <input type="text" class="code-val" placeholder="Введите код">
+                        <button onclick="checkCode();">проверить код</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="block13">
+            <div class="wrapper">
+                <div class="block-line">
+                    <div class="item item1">1. Просто впишите в форму заявки ваше имя и телефон
+                    </div>
+                    <div class="arrow">
+                        <img src="img/arrow-right.png" alt="">
+                    </div>
+                    <div class="item item2">2. Не нужно платить за звонок. Мы вам позвоним</div>
+                    <div class="arrow">
+                        <img src="img/arrow-right.png" alt="">
+                    </div>
+                    <div class="item item3">3. Ваша посылка мчится к вам</div>
+                    <div class="arrow">
+                        <img src="img/arrow-right.png" alt="">
+                    </div>
+                    <div class="item item4">Никакого риска, проверьте товар и оплатите без комиссии</div>
+                </div>
+            </div>
+        </div>
+        <div class="block14 top">
+            <div class="wrapper">
+                <div class="title">АНТИТОКСИН NANO® -
+                    <br>очищение и защита от паразитов!</div>
+                <div class="title2"><u>Навсегда</u> избавьтесь от паразитов, глистов <u>за 1 месяц</u></div>
+                <div class="block-left">
+                    <div class="item item1">
+                        В 2016 году уже купили
+                        <br><span class="green"><span class="count-people">4509</span> упаковок средства</span>
+                    </div>
+                    <div class="item item2">
+                        <span class="green">Товар года - 2015</span> в
+                        <br>номинации “Мировая
+                        <br>врачебная практика”
+                    </div>
+                    <div class="item item3">
+                        <span class="green">Рекомендовано</span> Социально
+                        <br>Ответственным Обществом
+                        <br>“Здоровая Россия”
+                    </div>
+                </div>
+                <div class="product-block">
+                    <img src="img/product.png" alt="">
+                </div>
+                <div class="bottom-line">
+                    осталось товаров <span class="red">5</span> штук
+                </div>
+                <div class="block-right">
+                    <div class="old">старая цена 1980 руб.</div>
+                    <div class="new">новая цена 990 руб.</div>
+                    <div class="form-block">
+                        <div class="line-top">Заполните поля:</div>
+                        <form action="http://www.rocketprofit.ru/crm/api/CreateOrderRaw?flow_id=36441">
+                            <div class="line c-s">
+                               <input type="hidden" name="country_code" value="RU">
+                            </div>
+                            <div class="line">
+                                <input type="text" name="name" placeholder="Имя">
+                            </div>
+                            <div class="line">
+                                <input type="text" name="phone" placeholder="Телефон">
+                            </div>
+                            <div class="button-block">
+                                <button type="submit"></button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer">
+            <div class="wrapper">
+                ООО «Геометрия Розы», Москва, Варшавское шоссе, д.42, ОГРН 1125262014844, ИНН/КПП 5262283764/772601001
+                <div class="confident-link">Политика конфиденциальности</div>
+            </div>
+        </div>
+    </div>
+    <div class="hidden-conf">
+        <div class="conf-overlay close-conf"></div>
+        <div class="conf-info">
+            <div class="conf-head">Политика конфиденциальности</div>
+            <h5>Защита личных данных</h5>
+            <p>Для защиты ваших личных данных у нас внедрен ряд средств защиты, которые действуют при введении, передаче или работе с вашими личными данными.</p>
+            <h5>Разглашение личных сведений и передача этих сведений третьим лицам</h5>
+            <p>Ваши личные сведения могут быть разглашены нами только в том случае это необходимо для: (а) обеспечения соответствия предписаниям закона или требованиям судебного процесса в нашем отношении ; (б) защиты наших прав или собственности (в) принятия срочных мер по обеспечению личной безопасности наших сотрудников или потребителей предоставляемых им услуг, а также обеспечению общественной безопасности. Личные сведения, полученные в наше распоряжение при регистрации, могут передаваться третьим организациям и лицам, состоящим с нами в партнерских отношениях для улучшения качества оказываемых услуг. Эти сведения не будут использоваться в каких-либо иных целях, кроме перечисленных выше. Адрес электронной почты, предоставленный вами при регистрации может использоваться для отправки вам сообщений или уведомлений об изменениях, связанных с вашей заявкой, а также рассылки сообщений о происходящих в компании событиях и изменениях, важной информации о новых товарах и услугах и т.д. Предусмотрена возможность отказа от подписки на эти почтовые сообщения.</p>
+            <h5>Использование файлов «cookie»</h5>
+            <p>Когда пользователь посещает веб-узел, на его компьютер записывается файл «cookie» (если пользователь разрешает прием таких файлов). Если же пользователь уже посещал данный веб-узел, файл «cookie» считывается с компьютера. Одно из направлений использования файлов «cookie» связано с тем, что с их помощью облегчается сбор статистики посещения. Эти сведения помогают определять, какая информация, отправляемая заказчикам, может представлять для них наибольший интерес. Сбор этих данных осуществляется в обобщенном виде и никогда не соотносится с личными сведениями пользователей.</p>
+            <p>Третьи стороны, включая компании Google, показывают объявления нашей компании на страницах сайтов в Интернете. Третьи стороны, включая компанию Google, используют cookie, чтобы показывать объявления, основанные на предыдущих посещениях пользователем наших вебсайтов и интересах в веб-браузерах. Пользователи могут запретить компаниям Google использовать cookie. Для этого необходимо посетить специальную страницу компании Google по этому адресу: http://www.google.com/privacy/ads/</p>
+            <h5>Изменения в заявлении о соблюдении конфиденциальности</h5>
+            <p>Заявление о соблюдении конфиденциальности предполагается периодически обновлять. При этом будет изменяться дата предыдущего обновления, указанная в начале документа. Сообщения об изменениях в данном заявлении будут размещаться на видном месте наших веб-узлов</p>
+            <p class="s1">Благодарим Вас за проявленный интерес к нашей системе! </p>
+            <div class="close-conf closeconf-but"></div>
+        </div>
+    </div>
+    <div id="kmacb-form" class="modal">
+        <div class="modal-block">
+            <div class="icon-close"></div>
+            <div class="title">Введите Ваше имя и телефон, чтобы наш специалист связался с Вами.</div>
+            <div class="content">
+                <div class="padding">
+                    <form method="POST" action="http://www.rocketprofit.ru/crm/api/CreateOrderRaw?flow_id=36441" id="order_form2" class="order-form order_form">
+                        <span class="c-s"><input type="hidden" name="country_code" value="RU"></span>
+                        <input type="text" name="name" value="" placeholder="Ваше имя" />
+                        <input type="text" name="phone" value="" placeholder="Ваш номер телефона" />
+                        <br>
+                        <input type="submit" value="ЖДУ ЗВОНКА!" />
+                    </form>
+                    <p class="bold">Узнать подробнее о продукте "Антитоксин Нано", а также заказать его, можно через нашу <strong>бесплатную</strong> службу обратных звонков.
+                        <br> Среднее время ожидания 5-15 минут.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="ouibounce-modal" style="display: none;">
+        <div class="underlay"></div>
+        <div class="over-window">
+            <div class="none">
+                <div class="box-modal" id="callModal">
+        <div class="box-modal_close arcticmodal-close"><img src="img/close.jpg" alt=""></div>
+        <div class="top-block">
+            УСПЕЙТЕ ЗАКАЗАТЬ СО СКИДКОЙ 50%
+        </div>
+        <div class="text-block">
+            Всего 3 месяца назад мы ввезли на пробу 25 000 упаковок!<br>
+            ИХ УЖЕ НЕТ. Месяц назад мы завезли 100 000 упаковок и<br>
+            она кончаются!<br><br>
+            Следующая поставка будет только через месяц.<br>
+            И цена будет выше.<br>
+            ЗАПАТИСЕТЬ ЗАЩИТОЙ ОТ ПАРАЗИТОВ ПО НИЗКОЙ ЦЕНЕ!
+        </div>
+        <div class="top-block2">
+            Вы экономите 990 руб. 
+        </div>
+        <form action="http://www.rocketprofit.ru/crm/api/CreateOrderRaw?flow_id=36441">
+            <div class="line c-s">
+                <input type="hidden" name="country_code" value="RU">
+            </div>
+            <div class="line">
+                <input type="text" name="name" placeholder="Имя">
+            </div>
+            <div class="line">
+                <input type="text" name="phone" placeholder="Телефон">
+            </div>
+            <div class="button-block">
+                <button type="submit"></button>
+            </div>
+        </form>
+    </div>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="yvedw">
+        <div class="yved yvedf1">
+            <img src="yved/yico.png" alt="" class="yvedi">
+            <div class="yvedvt">
+                <div class="yvedt">Алексей купил 1 упаковку Антитоксин Нано за 990 руб. с доставкой в г.Белгород</div>
+            </div>
+        </div>
+        <div class="yved yvedf1">
+            <img src="yved/yico.png" alt="" class="yvedi">
+            <div class="yvedvt">
+                <div class="yvedt">Евгений купил 1 упаковку Антитоксин Нано за 990 руб. с доставкой в г.Липецк</div>
+            </div>
+        </div>
+        <div class="yved yvedf1">
+            <img src="yved/yico.png" alt="" class="yvedi">
+            <div class="yvedvt">
+                <div class="yvedt">Анатолий купил 1 упаковку Антитоксин Нано за 990 руб. с доставкой в г.Севастополь</div>
+            </div>
+        </div>
+        <div class="yved yvedf1">
+            <img src="yved/yico.png" alt="" class="yvedi">
+            <div class="yvedvt">
+                <div class="yvedt">Давид купил 1 упаковку Антитоксин Нано за 990 руб. с доставкой в г.Климовск</div>
+            </div>
+        </div>
+        <div class="yved yvedf1">
+            <img src="yved/yico.png" alt="" class="yvedi">
+            <div class="yvedvt">
+                <div class="yvedt">Георгий купил 1 упаковку Антитоксин Нано за 990 руб. с доставкой в г.Салехард</div>
+            </div>
+        </div>
+        <div class="yved yvedf1">
+            <img src="yved/yico.png" alt="" class="yvedi">
+            <div class="yvedvt">
+                <div class="yvedt">Станислав купил 1 упаковку Антитоксин Нано за 990 руб. с доставкой в г.Новый Уренгой</div>
+            </div>
+        </div>
+        <div class="yved yvedf1">
+            <img src="yved/yico.png" alt="" class="yvedi">
+            <div class="yvedvt">
+                <div class="yvedt">Роман купил 1 упаковку Антитоксин Нано за 990 руб. с доставкой в г.Москва</div>
+            </div>
+        </div>
+        <div class="yved yvedf1">
+            <img src="yved/yico.png" alt="" class="yvedi">
+            <div class="yvedvt">
+                <div class="yvedt">Виктор купил 1 упаковку Антитоксин Нано за 990 руб. с доставкой в г.Санкт-Петербург</div>
+            </div>
+        </div>
+    </div>
+    <div style="display: none;">
+    <div class="box-modal" id="callModal">
+        <div class="box-modal_close arcticmodal-close"><img src="img/close.jpg" alt=""></div>
+        <div class="top-block">
+            УСПЕЙТЕ ЗАКАЗАТЬ СО СКИДКОЙ 50%
+        </div>
+        <div class="text-block">
+            Всего 3 месяца назад мы ввезли на пробу 25 000 упаковок!<br>
+            ИХ УЖЕ НЕТ. Месяц назад мы завезли 100 000 упаковок и<br>
+            она кончаются!<br><br>
+            Следующая поставка будет только через месяц.<br>
+            И цена будет выше.<br>
+            ЗАПАТИСЕТЬ ЗАЩИТОЙ ОТ ПАРАЗИТОВ ПО НИЗКОЙ ЦЕНЕ!
+        </div>
+        <div class="top-block2">
+            Вы экономите 990 руб. 
+        </div>
+        <form action="http://www.rocketprofit.ru/crm/api/CreateOrderRaw?flow_id=36441">
+            <div class="line c-s">
+                <input type="hidden" name="country_code" value="RU">
+            </div>
+            <div class="line">
+                <input type="text" name="name" placeholder="Имя">
+            </div>
+            <div class="line">
+                <input type="text" name="phone" placeholder="Телефон">
+            </div>
+            <div class="button-block">
+                <button type="submit"></button>
+            </div>
+        </form>
+    </div>
+</div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+     <link rel="stylesheet" href="yved/style.css">
+    <script src="yved/script.js"></script>
+    <script src="js/jquery.arcticmodal-0.3.min.js"></script>
+    <script type='text/javascript' src='js/ouibounce.min.js'></script>
+    <script src="js/script.js"></script>
+    <script>
+    var modal = ouibounce(document.getElementById('ouibounce-modal'), {
+        aggressive: true,
+        timer: 0,
+        oneEvent: false,
+        sensitivity: 100
+    });
+
+    $('#ouibounce-modal .modal-footer, .close-over').on('click', function() {
+        $('#ouibounce-modal').hide();
+    });
+
+    $('#ouibounce-modal .modal').on('click', function(e) {
+        e.stopPropagation();
+    });
+    </script>
+    <script type='text/javascript' src='http://www.rocketprofit.ru/getlandingscript.php?site_id=29018&hit_id=120987553'></script>
+     <!-- RocketProfit counter -->
+<script type='text/javascript' src='http://www.rocketprofit.ru/static/js/counter.js'></script>
+<script type='text/javascript'>
+	var rp_counter = new RocketProfitCounter({"server":"http:\/\/www.rocketprofit.ru\/counter.php","shard_id":"77","user_id":"3855","site_id":"29018","flow_id":"36441","offer_id":"604","site_template_id":"696","pre_site_template_id":"99999604","source":"DS","price_quote_type":"2","is_pre_site":0});
+	rp_counter._trackPageView();
+</script>
+<!-- /RocketProfit counter --><!-- RocketProfit form handler -->
+<script type="text/javascript" src="http://www.rocketprofit.ru/static/js/form_handler.js"></script>
+<script>
+	new RocketProfitFormHandler({"api_url":"http:\/\/www.rocketprofit.ru\/crm\/api\/createOrderRichData","thank_you_page_url":"http:\/\/www.rocketprofit.ru\/thank_you\/","flow_id":"36441","template_id":"696","metrika_hits":null,"advertiser_api_url":"http:\/\/www.rocketprofit.ru\/advertiser\/api\/countryList"});
+</script>
+<!-- /RocketProfit form handler -->
+</body>
+
+</html>
