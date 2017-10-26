@@ -4057,6 +4057,9 @@ header .header-row a {
     .subject .wrapper_1 {
         width: 100%;
     }
+    .subject {
+        background: transparent url(../images/slide_1.jpg) no-repeat scroll 16% 0px;
+    }
     .subject .wrapper_1 ul {
         /*width: auto;*/
         margin: 0;
@@ -4089,5 +4092,8 @@ header .header-row a {
     .danger .wrapper_2 h3 {
         font-size: 45px;
         margin-left: 20px;
+    }
+    .danger {
+        background: none;
     }
 }
