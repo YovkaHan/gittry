@@ -4061,16 +4061,14 @@ footer {
 }
 
 @media screen and (max-width: 1070px) {
-<<<<<<< HEAD
     .container {
         max-width: 768px;
         padding: 0 16px;
-=======
+    }
     .danger .wrapper_2 h3,.assurance .wrapper_3 h3, .infection .wrapper_4 h3,.about-product .wrapper_5 h3 {
         font-size: 45px;
         margin-left: 20px;
         margin-top: 40px;
->>>>>>> 8e0cfb3b6cadaa0dc7f3e389a3c03ec1cf2e01ec
     }
     /*block1*/
     header .header-row {
