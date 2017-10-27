@@ -3043,26 +3043,37 @@ header .header-row a {
     width: 100%;
 }
 
-.form .wrapper_6 {
+.wrapper_6 .left-part:before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 19px;
+    right: -353px;
+    width: 288px;
+    height: 209px;
+    background:  url('../images/product.png') no-repeat;
+}
+
+.wrapper_6 {
     max-width: 1000px;
     margin: 0px auto;
-    background: transparent url('../images/product.png') no-repeat scroll 555px 80px;
+    background: transparent;
     padding-bottom: 50px;
 }
 
-.form .wrapper_6 .left-part {
+.wrapper_6 .left-part {
     width: 435px;
     margin: 0px 0px 0px 82px;
 }
 
-.form .wrapper_6 .left-part h3 {
+.wrapper_6 .left-part h3 {
     font-size: 75px;
     margin: -30px 0px 0px;
     color: rgb(91, 95, 32);
     font-weight: 700;
 }
 
-.form .wrapper_6 .left-part h3 span {
+.wrapper_6 .left-part h3 span {
     display: inline-block;
     float: left;
     font-weight: 400;
@@ -3072,31 +3083,31 @@ header .header-row a {
     margin: 5px 0px 0px;
 }
 
-.form .wrapper_6 .left-part .price .new-price, .form .wrapper_6 .left-part .price .old-price {
+.wrapper_6 .left-part .price .new-price, .wrapper_6 .left-part .price .old-price {
     color: rgb(235, 40, 3);
     font-size: 70px;
     line-height: 72px;
     text-transform: uppercase;
 }
 
-.form .wrapper_6 .left-part .price .old-price {
+.wrapper_6 .left-part .price .old-price {
     color: rgb(62, 64, 32);
     font-size: 30px;
     text-decoration: line-through;
 }
 
-.form .wrapper_6 .left-part .x_order_form {
+ .wrapper_6 .left-part .x_order_form {
     margin: -13px 0px 0px;
     text-align: left;
 }
 
-.form .wrapper_6 .left-part .x_order_form p {
+ .wrapper_6 .left-part .x_order_form p {
     display: block;
     font-size: 24px;
     text-align: left;
 }
 
-.form .wrapper_6 .left-part .x_order_form input {
+.wrapper_6 .left-part .x_order_form input {
     border-top: 5px solid #929765;
     display: block;
     height: 85px;
@@ -3114,16 +3125,16 @@ header .header-row a {
     margin-bottom: 10px;
 }
 
-.form .wrapper_6 .left-part .x_order_form .name-form {
+ .wrapper_6 .left-part .x_order_form .name-form {
     background: rgb(255, 255, 255) url('../images/form-name.png') no-repeat scroll 0px 100%;
 }
 
-.form .wrapper_6 .left-part .x_order_form .phone-form {
+ .wrapper_6 .left-part .x_order_form .phone-form {
     background: rgb(255, 255, 255) url('../images/form-phone.png') no-repeat scroll 0px 100%;
     margin-bottom: 20px;
 }
 
-.form .wrapper_6 .left-part .x_order_form .button-form .button {
+.wrapper_6 .left-part .x_order_form .button-form .button {
     width: 703px;
     height: 200px;
     background: transparent url('../images/button.png') no-repeat scroll 0% 0%;
@@ -3131,7 +3142,7 @@ header .header-row a {
     margin-left: -180px;
 }
 
-.form .wrapper_6 .left-part .x_order_form .button-form .caption {
+.wrapper_6 .left-part .x_order_form .button-form .caption {
     width: 150px;
     position: absolute;
     top: 28px;
@@ -3139,7 +3150,7 @@ header .header-row a {
     font-family: Roboto Condensed, sans-serif;
 }
 
-.form .wrapper_6 .left-part .x_order_form .button-form .caption span {
+ .wrapper_6 .left-part .x_order_form .button-form .caption span {
     font-size: 125%;
     display: block;
     line-height: 140%;
@@ -3148,7 +3159,7 @@ header .header-row a {
     text-align: center;
 }
 
-.form .wrapper_6 .left-part .x_order_form .button-form .caption span mark {
+ .wrapper_6 .left-part .x_order_form .button-form .caption span mark {
     background: transparent none repeat scroll 0px 0px;
     font-size: 200%;
     display: block;
@@ -3156,7 +3167,7 @@ header .header-row a {
     color: rgb(255, 255, 255);
 }
 
-.form .wrapper_6 .left-part .submit-form {
+ .wrapper_6 .left-part .submit-form {
     display: block;
     width: 440px;
     padding: 25px 0px;
@@ -3614,7 +3625,13 @@ header .header-row a {
 
 .form_12 {
     background: transparent url('../images/slide_12.jpg') no-repeat scroll 50% 0px;
-    height: 640px;
+    min-height: 640px;
+    height: auto;
+}
+
+.title_wrap {
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 .how-to-use {
@@ -3907,16 +3924,6 @@ header .header-row a {
     position: relative;
     background: transparent;
 }
-.form-bottom .wrapper_6 .left-part:before {
-    content: "";
-    display: block;
-    position: absolute;
-    top: 19px;
-    right: -353px;
-    width: 288px;
-    height: 209px;
-    background:  url('../images/product.png') no-repeat;
-}
 
 .form-bottom .wrapper_6 h3 {
     font-size: 59px;
@@ -3935,10 +3942,9 @@ header .header-row a {
     color: rgb(235, 40, 3);
 }
 
-.form-bottom .wrapper_6 .left-part {
+.form-bottom .wrapper_6 .left-part, .wrapper_6 .left-part{
     position: relative;
     width: 435px;
-    margin-left: 113px;
 }
 
 .form-bottom .wrapper_6 .left-part .price .new-price, .form-bottom .wrapper_6 .left-part .price .old-price {
@@ -3963,11 +3969,12 @@ header .header-row a {
     text-align: left;
 }
 
-.form-bottom .wrapper_6 .left-part .x_order_form input {
+.wrapper_6 .left-part .x_order_form input {
     border-top: 5px solid #929765;
     display: block;
     height: 68px;
-    width: 93%;
+    width: 90%;
+    margin: 0 auto;
     border-radius: 40px;
     padding: 15px 80px;
     border-width: 5px medium medium;
@@ -4044,6 +4051,12 @@ header .header-row a {
     z-index: 1001;
 }
 
+.form_12 .wrapper_6 .left-part:before{
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+
 #conf-box {
     display: none;
 }
@@ -4061,6 +4074,10 @@ footer {
 }
 
 @media screen and (max-width: 1070px) {
+    .title_wrap {
+        margin-top: -200px;
+        margin-bottom: 200px;
+    }
     .container {
         max-width: 768px;
         padding: 0 16px;
@@ -4274,41 +4291,48 @@ footer {
         background: url("../images/slide_10_doctor_photo.png");
         background-size: contain;
     }
-    .form-bottom .wrapper_6 h3 {
+    .wrapper_6 h3, .wrapper_6 .left-part h3 {
         font-size: 50px;
     }
     .how-it-works .wrapper_16 h3 {
         font-size: 50px;
         margin: 20px 0px  36px 36px;
     }
-    .form-bottom {
+    .form.form_12, .form-bottom {
         background-size: cover;
     }
-    .form-bottom .wrapper_6 .left-part:before {
+    .wrapper_6 .left-part:before {
         top: -219px;
         left: 50px;
     }
-    .form-bottom .wrapper_6 .left-part {
+    .form_12 .wrapper_6 .left-part:before {
+        margin: auto;
+        left: 0;
+        right: 0;
+        top: 133px;
+        bottom: auto;
+    }
+    .wrapper_6 .left-part {
         width: 400px;
         margin: 220px auto 0;
     }
-    .form-bottom .wrapper_6 .left-part .submit-form {
+    .wrapper_6 .left-part .submit-form {
         width: 400px;
         line-height: 88px;
     }
-    .form-bottom .wrapper_6 .left-part .x_order_form .button-form .button {
+    .wrapper_6 .left-part .x_order_form .button-form .button {
         width: 656px;
         background-size: contain;
     }
-    .form-bottom .wrapper_6 .left-part .x_order_form p {
+    .wrapper_6 .left-part .x_order_form p {
         display: block;
         font-size: 21px;
         text-align: left;
     }
-    .form-bottom .wrapper_6 .left-part .x_order_form .name-form {
+    .wrapper_6 .left-part .x_order_form .name-form {
         background: rgb(255, 255, 255) url(../images/form-name.png) no-repeat scroll 0px 5px;
     }
-    .form-bottom .wrapper_6 .left-part .x_order_form .phone-form {
+    .wrapper_6 .left-part .x_order_form .phone-form {
         background: rgb(255, 255, 255) url(../images/form-phone.png) no-repeat scroll 0px 5px;
         margin-bottom: 20px;
     }
@@ -4363,7 +4387,7 @@ footer {
         float: left;
         height: 458px;
         width: 100%;
-        background-size: 2414px 100%;
+        background-size: 2570px 100%;
     }
 }
 
