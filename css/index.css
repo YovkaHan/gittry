@@ -2588,7 +2588,7 @@ header .header-row a {
 }
 
 .subject .wrapper_1 h2 p {
-    font-size: 50%;
+    font-size: 48%;
     margin: -11px 0px 0px -11px;
 }
 
@@ -4061,9 +4061,16 @@ footer {
 }
 
 @media screen and (max-width: 1070px) {
+<<<<<<< HEAD
     .container {
         max-width: 768px;
         padding: 0 16px;
+=======
+    .danger .wrapper_2 h3,.assurance .wrapper_3 h3, .infection .wrapper_4 h3,.about-product .wrapper_5 h3 {
+        font-size: 45px;
+        margin-left: 20px;
+        margin-top: 40px;
+>>>>>>> 8e0cfb3b6cadaa0dc7f3e389a3c03ec1cf2e01ec
     }
     /*block1*/
     header .header-row {
@@ -4088,7 +4095,7 @@ footer {
         width: 100%;
     }
     .subject {
-        background: transparent url(../images/slide_1.jpg) no-repeat scroll 16% 0px;
+        background: transparent url(../images/slide_1_800.png) no-repeat scroll 16% 0px;
     }
     .subject .wrapper_1 ul {
         /*width: auto;*/
@@ -4119,12 +4126,155 @@ footer {
     .danger .wrapper_2 {
         width: 100%;
     }
-    .danger .wrapper_2 h3 {
-        font-size: 45px;
+
+    .danger .wrapper_2 p {
         margin-left: 20px;
     }
     .danger {
         background: none;
+        height:740px;
+    }
+    .danger .wrapper_2 .danger-box {
+        float: none;
+        width:600px;
+    }
+    /*block3*/
+    .assurance {
+        background: url("../images/slide_3_800.jpg") center center no-repeat;
+        background-size: cover;
+    }
+    .assurance .wrapper_3 {
+        width: 100%;
+    }
+    /*block4*/
+    .infection {
+        background: rgb(252, 251, 247);
+        height: 600px;
+    }
+    .infection .wrapper_4 {
+        width: 100%;
+    }
+    .infection .wrapper_4 ul li {
+        width: 22%;
+        float: left;
+        font-size: 16px;
+        margin: 6px 10px 30px;
+        padding-top: 230px;
+        line-height: 18px;
+        background-size: contain!important;
+    }
+    .infection .wrapper_4 h3 {
+        font-size: 40px;
+    }
+    .infection .wrapper_4 .attention span {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    /*block5*/
+    .about-product .wrapper_5 {
+        width: 100%;
+    }
+    .about-product .wrapper_5 .about-product {
+        background: none;
+    }
+    .about-product .wrapper_5 .about-product .about-left,.about-product .wrapper_5 .about-product .about-right {
+        width: 290px;
+        float: none;
+        display: inline-block;
+        margin-top: 10px;
+    }
+    /*block7*/
+    .iconographic {
+        height: auto;
+        background: rgb(252, 251, 249);
+    }
+    .iconographic .wrapper_7 {
+        width: 100%;
+    }
+    .iconographic .wrapper_7 h3 {
+        font-size: 37px;
+        margin-left: 20px;
+    }
+    .iconographic .wrapper_7 .results .left, .iconographic .wrapper_7 .results .right {
+        padding-top: 600px;
+        width: 512px;
+        float: none;
+        margin: 0 auto;
+    }
+    .iconographic .wrapper_7 .results .left .textual {
+        bottom: 618px;
+    }
+    /*block8*/
+    .best {
+        height: auto;
+        padding: 40px 20px;
+        box-sizing: content-box;
+        background: none;
+    }
+    .best .wrapper_8 {
+        width: 100%;
+        padding-bottom: 0;
+    }
+    .best .wrapper_8 .best-box h3 {
+        font-size: 45px;
+        margin-left: 20px;
+    }
+    .adv-block {
+        width: 746px;
+        margin: auto;
+    }
+    .best .wrapper_8 .best-box .advantages {
+        position: relative;
+        left:0;
+        top:0;
+        margin-left: 400px;
+    }
+    .best .wrapper_8 .best-box .advantages:before {
+        content: "";
+        position: absolute;
+        top: 75px;
+        left: -412px;
+        background: url(../images/best-product-2.png);
+        width: 427px;
+        height: 307px;
+    }
+    .best .wrapper_8 .best-box .advantages {
+        width: 350px;
+    }
+
+
+    .best .wrapper_8 .best-box img {
+        display: none;
+    }
+    /*block9*/
+    .expert {
+        height: auto;
+    }
+    .expert .wrapper_10 {
+        width: 100%;
+        background: none;
+        height: auto;
+    }
+    .expert .wrapper_10 .expert-think {
+        position: relative;
+        background: url(../images/slide_10_doctor_text.png) center center no-repeat;
+        padding: 71px 118px 40px 40px;
+        width: 700px;
+        top:0;
+        left: 0;
+        margin-top: 250px;
+    }
+    .expert .wrapper_10 .expert-think:before {
+        content: "";
+        position: absolute;
+        top:-232px;
+        left:0;
+        right: 0;
+        margin: auto;
+        width: 236px;
+        height: 230px;
+        background: url("../images/slide_10_doctor_photo.png");
+        background-size: contain;
     }
     .form-bottom .wrapper_6 h3 {
         font-size: 50px;
