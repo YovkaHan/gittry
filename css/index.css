@@ -3044,7 +3044,7 @@ header .header-row a {
 }
 
 .form .wrapper_6 {
-    width: 1000px;
+    max-width: 1000px;
     margin: 0px auto;
     background: transparent url('../images/product.png') no-repeat scroll 555px 80px;
     padding-bottom: 50px;
@@ -3623,7 +3623,7 @@ header .header-row a {
 }
 
 .how-to-use .wrapper_12 {
-    width: 1000px;
+    max-width: 1000px;
     margin: 0px auto;
     padding-bottom: 60px;
 }
@@ -3720,7 +3720,7 @@ header .header-row a {
 }
 
 .sertificate .wrapper_13 {
-    width: 1000px;
+    max-width: 1000px;
     margin: 0px auto;
     padding-bottom: 500px;
     background: transparent url('../images/sert.png') no-repeat scroll 32% 313px;
@@ -3852,7 +3852,7 @@ header .header-row a {
 }
 
 .how-it-works .wrapper_16 {
-    width: 1000px;
+    max-width: 1000px;
     margin: 0px auto;
     padding-bottom: 130px;
 }
@@ -3860,14 +3860,13 @@ header .header-row a {
 .how-it-works .wrapper_16 h3 {
     color: rgb(91, 95, 32);
     text-align: left;
-    margin: -20px 0px 36px;
+    margin: 20px 0px 36px;
     font-size: 57px;
     padding-top: 0px;
 }
 
 .how-it-works .wrapper_16 ul {
     overflow: hidden;
-    margin: 0px 0px 0px -47px;
     background: transparent url('../images/line.png') no-repeat scroll 50% 50%;
 }
 
@@ -3898,20 +3897,30 @@ header .header-row a {
 .form-bottom {
     background: transparent url('../images/slide_17.jpg') no-repeat scroll center 0px;
     float: left;
-    height: 631px;
+    min-height: 631px;
     width: 100%;
 }
 
 .form-bottom .wrapper_6 {
-    width: 1000px;
+    max-width: 1000px;
     margin: 0px auto;
     position: relative;
-    background: transparent url('../images/product.png') no-repeat scroll 581px 108px;
+    background: transparent;
+}
+.form-bottom .wrapper_6 .left-part:before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 19px;
+    right: -353px;
+    width: 288px;
+    height: 209px;
+    background:  url('../images/product.png') no-repeat;
 }
 
 .form-bottom .wrapper_6 h3 {
     font-size: 59px;
-    margin: -15px 0px 0px -117px;
+    margin: -15px 0px 10px;
     color: rgb(91, 95, 32);
 }
 
@@ -3927,6 +3936,7 @@ header .header-row a {
 }
 
 .form-bottom .wrapper_6 .left-part {
+    position: relative;
     width: 435px;
     margin-left: 113px;
 }
@@ -3956,8 +3966,8 @@ header .header-row a {
 .form-bottom .wrapper_6 .left-part .x_order_form input {
     border-top: 5px solid #929765;
     display: block;
-    height: 85px;
-    width: 100%;
+    height: 68px;
+    width: 93%;
     border-radius: 40px;
     padding: 15px 80px;
     border-width: 5px medium medium;
@@ -3971,12 +3981,16 @@ header .header-row a {
     margin-bottom: 10px;
 }
 
+.form-bottom .wrapper_6 .left-part .x_order_form .price {
+    text-align: center;
+}
+
 .form-bottom .wrapper_6 .left-part .x_order_form .name-form {
-    background: rgb(255, 255, 255) url('../images/form-name.png') no-repeat scroll 0px 100%;
+    background: rgb(255, 255, 255) url(../images/form-name.png) no-repeat scroll 0px 5px;
 }
 
 .form-bottom .wrapper_6 .left-part .x_order_form .phone-form {
-    background: rgb(255, 255, 255) url('../images/form-phone.png') no-repeat scroll 0px 100%;
+    background: rgb(255, 255, 255) url('../images/form-phone.png') no-repeat scroll 0px 5px;
     margin-bottom: 20px;
 }
 
@@ -4034,7 +4048,23 @@ header .header-row a {
     display: none;
 }
 
+.container {
+    max-width: 1070px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+footer {
+    padding: 15px 0;
+    float: left;
+    width: 100%;
+    text-align: center;
+}
+
 @media screen and (max-width: 1070px) {
+    .container {
+        max-width: 768px;
+        padding: 0 16px;
+    }
     /*block1*/
     header .header-row {
         width: 100%;
@@ -4096,4 +4126,99 @@ header .header-row a {
     .danger {
         background: none;
     }
+    .form-bottom .wrapper_6 h3 {
+        font-size: 50px;
+    }
+    .how-it-works .wrapper_16 h3 {
+        font-size: 50px;
+        margin: 20px 0px  36px 36px;
+    }
+    .form-bottom {
+        background-size: cover;
+    }
+    .form-bottom .wrapper_6 .left-part:before {
+        top: -219px;
+        left: 50px;
+    }
+    .form-bottom .wrapper_6 .left-part {
+        width: 400px;
+        margin: 220px auto 0;
+    }
+    .form-bottom .wrapper_6 .left-part .submit-form {
+        width: 400px;
+        line-height: 88px;
+    }
+    .form-bottom .wrapper_6 .left-part .x_order_form .button-form .button {
+        width: 656px;
+        background-size: contain;
+    }
+    .form-bottom .wrapper_6 .left-part .x_order_form p {
+        display: block;
+        font-size: 21px;
+        text-align: left;
+    }
+    .form-bottom .wrapper_6 .left-part .x_order_form .name-form {
+        background: rgb(255, 255, 255) url(../images/form-name.png) no-repeat scroll 0px 5px;
+    }
+    .form-bottom .wrapper_6 .left-part .x_order_form .phone-form {
+        background: rgb(255, 255, 255) url(../images/form-phone.png) no-repeat scroll 0px 5px;
+        margin-bottom: 20px;
+    }
+    .how-it-works .wrapper_16 ul {
+        overflow: hidden;
+        background: transparent url(../images/line.png) no-repeat scroll 66% 50%;
+        background-size: 87%;
+    }
+    .how-to-use .wrapper_12 ul {
+        text-align: center;
+        display: inline-block;
+        font-size: 0;
+    }
+    .how-to-use .wrapper_12 h3 {
+        text-align: center;
+    }
+    .how-to-use .wrapper_12 ul li .frame span {
+        font-size: 20px;
+    }
+    .how-to-use .wrapper_12 ul li .frame strong {
+        font-size: 17px;
+    }
+    .how-to-use .wrapper_12 ul li .frame p {
+        font-size: 17px;
+        line-height: 24px;
+    }
+    .how-to-use .wrapper_12 ul li {
+        width: 250px;
+        display: inline-block;
+        margin-left: 15px;
+    }
+    .sertificate {
+        background-size: cover;
+        height: auto;
+    }
+    .sertificate .wrapper_13 {
+        padding-bottom: 45%;
+        background-size: 75%;
+        background-position: center 90%;
+    }
+    .sertificate .wrapper_13 h3 {
+        font-size: 37px;
+        text-align: center;
+    }
+    .sertificate .wrapper_13 ul li {
+        padding-top: 17%;
+        background-position: center center;
+        background-size: contain !important;
+    }
+    .how-it-works {
+        background: transparent url(../images/slide_16.jpg) no-repeat scroll center 0px;
+        float: left;
+        height: 458px;
+        width: 100%;
+        background-size: 2414px 100%;
+    }
+}
+
+@media screen and (max-width: 800px) {
+
 }
